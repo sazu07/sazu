@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="48" height="36" x="6" y="6" rx="5"/>
+    <linearGradient id="b" x1="54.232%" x2="83.826%" y1="108.197%" y2="0%">
+      <stop stop-color="#00B7B3" offset="0%"/>
+      <stop stop-color="#2EAFE6" offset="100%"/>
+    </linearGradient>
+    <rect id="c" width="48" height="36" y="12" rx="3"/>
+    <circle id="d" cx="59" cy="66" r="6"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(20 24)">
+    <g transform="translate(15)">
+      <rect width="48" height="36" x="12" fill="#D1D1D1" rx="5"/>
+      <use fill="#91929B" xlink:href="#a"/>
+      <rect width="50" height="38" x="5" y="5" stroke="#FFFFFF" stroke-width="2" rx="5"/>
+      <use fill="url(#b)" xlink:href="#c"/>
+      <rect width="50" height="38" x="-1" y="11" stroke="#FFFFFF" stroke-width="2" rx="3"/>
+      <path fill="#FFFFFF" d="M30.8,28 L22.88,28 L25.12,25.2 L22.88,22.4 L30.8,22.4 L30.8,28 Z M18,20 L21.84,25.2 L18,30.4 L30.8,30.4 L30.8,39.2 L33.2,39.2 L33.2,20 L18,20 Z" transform="matrix(-1 0 0 1 51.2 0)"/>
+    </g>
+    <rect width="80" height="4" y="64" fill="#2E2F39" rx="2"/>
+    <use fill="#FFFFFF" xlink:href="#d"/>
+    <circle cx="59" cy="66" r="7" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="59" cy="66" r="4.5" stroke="#38B0E4" stroke-width="3"/>
+  </g>
+</svg>
